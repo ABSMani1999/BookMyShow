@@ -1,0 +1,32 @@
+{
+  "files": {
+    "main.css": "/BookMyShow/static/css/main.a9c97c5a.css",
+    "main.js": "/BookMyShow/static/js/main.c2524c24.js",
+    "static/js/787.93359fbf.chunk.js": "/BookMyShow/static/js/787.93359fbf.chunk.js",
+    "static/media/first-photo.avif": "/BookMyShow/static/media/first-photo.cbbfd59a0b811aa069f1.avif",
+    "static/media/4.small-car.avif": "/BookMyShow/static/media/4.small-car.7ec829e8aa3322776662.avif",
+    "static/media/second-photo.avif": "/BookMyShow/static/media/second-photo.447a85338a6b2d4025b0.avif",
+    "static/media/bicycle.avif": "/BookMyShow/static/media/bicycle.2eaf6dbcd75bf94a5854.avif",
+    "static/media/2.bike.avif": "/BookMyShow/static/media/2.bike.67840e2cb054442c8739.avif",
+    "static/media/bookMYshow.png": "/BookMyShow/static/media/bookMYshow.2537f448c9ba21cd6196.png",
+    "static/media/bookMYshow-logo.png": "/BookMyShow/static/media/bookMYshow-logo.5030d063f5180dede4d8.png",
+    "static/media/6.car.avif": "/BookMyShow/static/media/6.car.0fda7638589d1d7d70cf.avif",
+    "static/media/unlock.avif": "/BookMyShow/static/media/unlock.7f7e94d5e746a8d423d9.avif",
+    "static/media/5.car.avif": "/BookMyShow/static/media/5.car.1ee681cc1233a4966d64.avif",
+    "static/media/7-8-van.avif": "/BookMyShow/static/media/7-8-van.2ad29020d95c76dde0de.avif",
+    "static/media/9-10-bus.avif": "/BookMyShow/static/media/9-10-bus.c1860ad86dbe32406e83.avif",
+    "static/media/auto.avif": "/BookMyShow/static/media/auto.86f6fa1219c490d6a7a1.avif",
+    "static/media/slick.svg": "/BookMyShow/static/media/slick.2630a3e3eab21c607e21.svg",
+    "static/media/slick.eot": "/BookMyShow/static/media/slick.a4e97f5a2a64f0ab1323.eot",
+    "static/media/slick.ttf": "/BookMyShow/static/media/slick.c94f7671dcc99dce43e2.ttf",
+    "static/media/slick.woff": "/BookMyShow/static/media/slick.295183786cd8a1389865.woff",
+    "index.html": "/BookMyShow/index.html",
+    "main.a9c97c5a.css.map": "/BookMyShow/static/css/main.a9c97c5a.css.map",
+    "main.c2524c24.js.map": "/BookMyShow/static/js/main.c2524c24.js.map",
+    "787.93359fbf.chunk.js.map": "/BookMyShow/static/js/787.93359fbf.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a9c97c5a.css",
+    "static/js/main.c2524c24.js"
+  ]
+}
